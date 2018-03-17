@@ -1,0 +1,8 @@
+c:\users\chris\source\repos\ConsoleLearning\ConsoleLearning\bin\Debug\ConsoleLearning.exe.config
+c:\users\chris\source\repos\ConsoleLearning\ConsoleLearning\bin\Debug\ConsoleLearning.exe
+c:\users\chris\source\repos\ConsoleLearning\ConsoleLearning\bin\Debug\ConsoleLearning.pdb
+c:\users\chris\source\repos\ConsoleLearning\ConsoleLearning\obj\Debug\ConsoleLearning.csprojResolveAssemblyReference.cache
+c:\users\chris\source\repos\ConsoleLearning\ConsoleLearning\obj\Debug\ConsoleLearning.csproj.CoreCompileInputs.cache
+c:\users\chris\source\repos\ConsoleLearning\ConsoleLearning\obj\Debug\ConsoleLearning.exe
+c:\users\chris\source\repos\ConsoleLearning\ConsoleLearning\obj\Debug\ConsoleLearning.pdb
+C:\Users\chris\source\repos\ConsoleLearning\ConsoleLearning\bin\Debug\Microsoft.Management.Infrastructure.dll
